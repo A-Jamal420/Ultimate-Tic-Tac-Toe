@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Ultimate_Tic_Tac_Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4EB6D0-D8EC-4349-B945-E1DC787167CB}|Ultimate_Tic_Tac_Toe.vcxproj|C:\\Users\\Lenovo\\Desktop\\Ultimate_Tic_Tac_Toe\\Ultimate_Tic_Tac_Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B4EB6D0-D8EC-4349-B945-E1DC787167CB}|Ultimate_Tic_Tac_Toe.vcxproj|solutionrelative:Ultimate_Tic_Tac_Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ultimate_Tic_Tac_Toe.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Ultimate_Tic_Tac_Toe\\Ultimate_Tic_Tac_Toe.cpp",
+              "RelativeDocumentMoniker": "Ultimate_Tic_Tac_Toe.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Ultimate_Tic_Tac_Toe\\Ultimate_Tic_Tac_Toe.cpp",
+              "RelativeToolTip": "Ultimate_Tic_Tac_Toe.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T19:31:10.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
